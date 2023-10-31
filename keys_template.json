@@ -1,0 +1,6 @@
+{
+    
+    "key":"<newrelic ingestion api_key>",
+    "entityGuid":"<entityGuid you want change tracking marker to show on>"
+
+}
